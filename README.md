@@ -1,3 +1,5 @@
+Guillaume Wylocke
+
 # ci_apiclient
 
 A new Flutter project.
